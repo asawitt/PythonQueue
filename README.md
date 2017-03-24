@@ -4,9 +4,9 @@ Linked-List backed Queue Implementation for Python challenges
 ## Installation
 -Just use the built-in Queue in python, unless you intend to edit this
 
--Fastest would be to copy-paste the contents of PythonQueue.py into your code 
+-Fastest would be to copy-paste the contents of Queue.py into your code 
 
--Or you could download PythonQueue.py and throw it in your project directory. Use "from DisjointSet import *" to use it in your code
+-Or you could download Queue.py and throw it in your project directory. Use "from DisjointSet import *" to use it in your code
 
 -You could clone https://github.com/asawitt/PythonQueue/ , move PythonQueue.py to your project directory, then use the above import statement if you really want to. Don't. 
 
