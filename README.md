@@ -19,8 +19,8 @@ q.push(value)
 -Returns the value at the front of the Queue, None if empty
 
 q.peek()
-### Remove a value from the front of the queue O(1)
--Returns the value at the front of the Queue
+###Pop O(1)
+-Remove the item at the front of the Queue and return the value
 
 q.pop()
 
