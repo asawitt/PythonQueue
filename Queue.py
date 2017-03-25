@@ -43,7 +43,7 @@ class Queue:
 			return True
 		return False
 
-	def size(self):
+	def getSize(self):
 		return self.size
 
 	def find(self,value):
