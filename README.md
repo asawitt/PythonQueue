@@ -32,10 +32,10 @@ Q.find(value)
 ### Display the Queue:
 q.display()
 
-### Size O(1)
+### Getting the size O(1)
 -Returns the number of elements in the Queue
 
-q.size()
+q.getSize()
 
 ### Check if the Queue is empty O(1)
 -Returns True if the Queue is empty, False otherwise
